@@ -1,0 +1,58 @@
+##
+##
+##
+##
+##
+## ------------------------ ================ licenses.txt ================ ------------------------
+##
+##
+##
+## In this document you can find list of all software and store assets that has been used in
+## this project as well as some extra credits for people and tutorials that somehow inspired
+## me.
+##
+##
+##
+##
+##
+##
+##
+##
+##
+##
+##
+##
+##
+##
+##
+##
+##
+##
+##
+##
+##
+##
+##
+##
+##
+##
+##
+##
+##
+##
+##
+##
+##
+##
+##
+##
+##
+##
+
+
+
+
+
+
+Fonts:
+	- VT323-Regular.ttf - https://fonts.google.com/specimen/VT323/about?category=Monospace
